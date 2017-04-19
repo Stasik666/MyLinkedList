@@ -63,6 +63,7 @@ public class MyLinkedList<E>{
         return element;
     }
 	
+    
 	private static class ListElement<E>{
 		
 		private E element;
